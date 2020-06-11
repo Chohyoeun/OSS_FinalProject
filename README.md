@@ -7,7 +7,7 @@ This server provides the Cornerstone Hall classroom reservation service. On the 
 Currently, there is no system in Cornerstone Hall to reserve a classroom. You can visit the undergraduate office to make reservation, but problems often arise because they are not recorded or stored anywhere. After thinking about how to solve these problems, I came to think about the classroom reservation system. It can meet convenience and efficiency at the same time. This server can also be applied to other reservation systems to be used effectively.
 
 ### How do I get started?
-Once I model Cornerstone in 3D from a tool called Revit, I should think about how we can upload this data to a server. I'm thinking and searching about it.
+First of all, to visually show where the classroom is, a tool called 'Revit' is used to model the Cornerstone Hall 3D and to extract images to show the location of the classroom. Then, I will use 'phpMyAdmin' and 'Mysql' to store student information and establish a database that stores classroom reservation information. I also use 'php' to build an absolute server.
 
 ### Where can I get more help, if I need it?
-I will borrow related books from the school library.
+I can borrow related books from the school library. And I will try my best by referring to the video of the lecture related to 'php'.
