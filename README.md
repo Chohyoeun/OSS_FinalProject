@@ -1,4 +1,4 @@
-# Conerstone Hall Map
+# Conerstone Hall Classroom Reservation Server
 
 ### What does this project do?
 This project brings in a 3D modeling Cornerstone Hall to show visually and provide a classroom reservation server.
