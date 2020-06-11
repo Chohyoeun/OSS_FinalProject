@@ -4,7 +4,7 @@
 This server provides the Cornerstone Hall classroom reservation service. On the main page, the user enters their name, student number and phone number. Then, it passes to the classroom selection page, and when the room is selected, the reservation date and the reservation time can be entered. When the reservation is completed, you will be taken to the reservation done page. What matters here is that duplication is impossible. If the date and time entered in the classroom overlap with other people, the page appears with the phrase Failed.
 
 ### Why is this project useful?
-This project is useful because it provides a service that student can use classroom only at a set time.
+Currently, there is no system in Cornerstone Hall to reserve a classroom. You can visit the undergraduate office to make reservation, but problems often arise because they are not recorded or stored anywhere. After thinking about how to solve these problems, I came to think about the classroom reservation system. It can meet convenience and efficiency at the same time. This server can also be applied to other reservation systems to be used effectively.
 
 ### How do I get started?
 Once I model Cornerstone in 3D from a tool called Revit, I should think about how we can upload this data to a server. I'm thinking and searching about it.
