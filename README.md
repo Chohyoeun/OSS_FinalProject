@@ -25,6 +25,6 @@ I want to explain how you can run this project yourself(Using Raspberry Pi). Ple
 2. Connect your raspberry pie and place the source file in the /var/www/html path.
 3. If you check the current code, you can see that the IP address required to turn over to another page is fixed at 192.168.137.196. So if possible, fix your Raspberry Pi IP address or modify the code to match your IP address.
 4. Trun off 'nginx' and Activate 'apache2' in Raspberry Pi
-' $ sudo service apache2 restart '
+` $ sudo service apache2 restart `
 
 ## Video Address link: https://youtu.be/5XgMkdKNo9M
