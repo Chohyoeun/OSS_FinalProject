@@ -27,5 +27,7 @@ I want to explain how you can run this project yourself(Using Raspberry Pi). Ple
 4. Trun off 'nginx' and Activate 'apache2' in Raspberry Pi
 ` $ sudo systemctl stop nginx `
 ` $ sudo service apache2 restart `
+5. Enter the IP address and php file name of raspberry pi in the Web.
+ex) http://192.168.137.196/signup.php
 
 ## Video Address link: https://youtu.be/5XgMkdKNo9M
