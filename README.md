@@ -12,8 +12,6 @@ First of all, to visually show where the classroom is, a tool called 'Revit' is 
 ### Where can I get more help, if I need it?
 I can borrow related books from the school library. And I will try my best by referring to the video of the lecture related to 'php'.
 
-# Contribute
-
 # Code of conduct
 
 ### What if you want to run this project on your computer?
